@@ -1,10 +1,8 @@
 <!-- This is the Header Banner of my profile -->
 
-![GihubBanner](https://github.com/Suraj-kumar00/Suraj-kumar00/assets/123288511/ddde374c-fe44-405e-a576-550df39bb446)
-
 <!-- This is my name -->
 
-<h1 align="center">Hi 👋, I'm Suraj</h1>
+<h1 align="center">Hi 👋, I'm Ujjawal Bhardwaj</h1>
 
 <!-- This is Typing SVG -->
 
@@ -22,33 +20,17 @@
 
 - 🧑🏻‍💻 I am an Aspiring Web Developer
 - 🌐 Open-source Contribution 
-- 🌱 Learning **JavaScript**, **Reactjs** & **DevOps Tools and technologies**
-- 📫 How to reach me **suraj.ukumar.p@gmail.com**
-- 📝 I'm a Technical Writer at @hashnode [https://surajk00.hashnode.dev/](https://surajk00.hashnode.dev/)
+- 🌱 Learning **JavaScript** & **Reactjs** 
+- 📫 How to reach me **ujjawalbhardaj625@gmail.com**
 <br>
 
 <!-- Read the blogs here on my hashnode profile -->
-
-## Read technical blogs here:
-<p align="left"> 
-
-</a>
-  <a href="https://surajk00.hashnode.dev/"
-    target="_blank"
-    rel="suraj hashnode" >
-    <img
-      src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-</p>
-
 
 <!-- come on let's connect here -->
 
 ## <h3 align="left"> Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/surajk_umar01" target="blank">
- <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="surajk_umar01" /></a>
-<a href="https://linkedin.com/in/surajkumar00" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="surajkumar00" /></a>
+<a href="https://www.linkedin.com/in/ujjawal-bhardwaj-13912a232" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="surajkumar00" /></a>
 <a href="https://discord.gg/PCmDTcz9" target="blank">
  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="surajkumar00" /></a>
 <a href="https://www.leetcode.com/suraj-kumar00" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
